@@ -1,7 +1,9 @@
 # Receta en XML
 
 
-<img widch=50% src="https://drive.google.com/file/d/1SFaKQC8RJVLMI7L1N_S5nW_zhbs78LRd/view?usp=sharing">
+<div align="center">
+<img width="100%" src="http://drive.google.com/uc?export=view&id=1SFaKQC8RJVLMI7L1N_S5nW_zhbs78LRd">
+</div>
 
 Para realizar la receta en XML creé el código de encima. En él usé varias etiquetas para imitar una especie de recetario (libro donde se almacenan recetas) y dentro de cada receta creé dos etiquetas clave: ingredientes y preparación. Dentro de estas etiqueta se muestran los elementos necesarios para realizar la receta.
 
